@@ -31,7 +31,6 @@ Place the file in the DRLND GitHub repository, in the p1_navigation/ folder, and
 Follow the instructions in Navigation.ipynb to get started with training your own agent!
 
 ## Learning from Pixels
-In the project, your agent learned from information such as its velocity, along with ray-based perception of objects around its forward direction. A more challenging task would be to learn directly from pixels!
 
 This environment is almost identical to the project environment, where the only difference is that the state is an 84 x 84 RGB image, corresponding to the agent's first-person view. (Note: Udacity students should not submit a project with this new environment.)
 
